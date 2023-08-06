@@ -1,2 +1,4 @@
 # Financial_Asset_Analysis
-Simple codes showing how certain analysis can be carried out and represented using Python.
+
+This project has the goal to show how an analysis of a financial asset can be carried out using Python.
+The financial asset taken into consideration will be mainly future derivatives.
